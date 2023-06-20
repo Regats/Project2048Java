@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2048final</string>
+    <string name="txt_mainMenu_nameGame">2048</string>
+    <string name="txt_mainMenu_newGame">"Tap to play!"</string>
+</resources>

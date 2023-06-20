@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="buttonLayout" type="id" />
-    <item name="textGame" type="id">textGame</item>
-    <item name="textView5" type="id" />
-    <item name="textTest" type="id" />
-    <item name="tableLayout" type="id" />
-    <item name="tableLayout" type="id" />
-</resources>
